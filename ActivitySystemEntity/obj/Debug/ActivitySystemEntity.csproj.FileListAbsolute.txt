@@ -1,0 +1,5 @@
+D:\tutorial\ActivitySystemEntity\ActivitySystemEntity\obj\Debug\ActivitySystemEntity.csprojResolveAssemblyReference.cache
+D:\tutorial\ActivitySystemEntity\ActivitySystemEntity\bin\Debug\ActivitySystemEntity.dll
+D:\tutorial\ActivitySystemEntity\ActivitySystemEntity\bin\Debug\ActivitySystemEntity.pdb
+D:\tutorial\ActivitySystemEntity\ActivitySystemEntity\obj\Debug\ActivitySystemEntity.dll
+D:\tutorial\ActivitySystemEntity\ActivitySystemEntity\obj\Debug\ActivitySystemEntity.pdb
